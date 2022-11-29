@@ -1,0 +1,321 @@
+Name,Location,Year,Combustible,Kilometers,Transmission,Power [CV],Price [€],Financed Price,Dealer,Dealer Rating (over 5)
+AUDI Q7 45 TDI quattro-ultra S tronic,Valencia,2019, Diésel,54.557,Automático,232,55.900,Sin financiación,CarNext.com Valencia,"3,5"
+KIA XCeed 1.6 T-GDi Eco-Dynamics DCT Emotion,Barcelona,2020, Gasolina,12.000,Automático,204,25.900,Con financiación,"DELTA PRAT, Concesionario Oficial Kia","4,0"
+FORD Focus 1.5 TDCi 120 CV Start&Stop Business,Ciudad Real,2016, Diésel,100.000,Manual,120,10.450,Con financiación,JEREZAUTO,"5,0"
+VOLKSWAGEN Golf Sportsvan 1.2 TSI BMT Edition,Barcelona,2014, Gasolina,149.000,Manual,110,9.990,Con financiación,n/a,n/a
+PEUGEOT 2008 1.6 BlueHDI S&S Allure EAT6 120,Zaragoza,2018, Diésel,36.211,Automático,120,16.300,Con financiación,n/a,n/a
+NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 DCT 117kW,Madrid,2019, Gasolina,17.055,Automático,160,21.950,Sin financiación,n/a,n/a
+BMW X1 xDrive 25dA,Barcelona,2012, Diésel,90.000,Automático,218,17.900,Sin financiación,n/a,n/a
+AUDI Q3 2.0 40 TDI S TRONIC QUATTRO S LINE 190 5P,Murcia,2020, Diésel,27.326,Automático,190,42.300,Con financiación,n/a,n/a
+AUDI A3 1.6 30 TDI ALL-IN SPORTBACK 116 5P,Murcia,2020, Diésel,10,Manual,116,27.000,Sin financiación,n/a,n/a
+TOYOTA C-HR 125H Advance,Alicante,2017, Híbrido,65.312,Automático,122,19.495,Con financiación,n/a,n/a
+FORD Mondeo 2.0TDCi Titanium,Valencia,2007, Diésel,260.000,Manual,140,4.950,Sin financiación,MA AUTOMOCION,"4,5"
+NISSAN Juke G E6D-Temp 83 kW (112 CV) 5M/T ACENTA,Madrid,2019, Gasolina,19.129,Manual,112,12.310,Con financiación,GAMBOA OCASION,"4,0"
+JAGUAR E-Pace 2.0 I4 R-Dynamic HSE AWD Aut. 249,Barcelona,2018, Gasolina,29.815,Automático,249,39.900,Sin financiación,CarNext.com Barcelona,"3,0"
+KIA Stonic 1.0 T-GDi Drive 100 cv -BiTono-,Madrid,2019, Gasolina,25.072,Manual,100,14.160,Con financiación,GAMBOA OCASION,"4,0"
+TOYOTA Land Cruiser D-4D VX,Madrid,2017, Diésel,104.233,Manual,177,1,Con financiación,GAMBOA OCASION,"4,0"
+FIAT 500L 1.6Mjt II S&S Lounge,Lugo,2018, Diésel,95.000,Manual,120,11.900,Con financiación,n/a,n/a
+NISSAN Micra IG-T 92 CV ACENTA  CVT,Zaragoza,2021, Gasolina,368,Automático,999,14.900,Con financiación,ARVESA,"3,5"
+AUDI A5 2.0 35 TDI S TRON B.LINE SPORTBACK 163 5P,Murcia,2020, Diésel,19.233,Automático,163,45.700,Con financiación,AUDI HUERTAS MOTOR CARTAGENA,"5,0"
+MERCEDES-BENZ Clase C C-CLASS 2.0 200 D AUTO 150 4P,Murcia,2019, Diésel,47.300,Automático,150,33.500,Sin financiación,AUDI HUERTAS MOTOR CARTAGENA,"5,0"
+RENAULT Clio E-TECH Híbrido Zen 103kW,Huesca,2020, Híbrido,2.000,Automático,140,18.730,Con financiación,n/a,n/a
+LEXUS NX 300h Executive Navigation 4WD,Madrid,2019, Híbrido,14.000,Automático,197,42.490,Con financiación,ÉLITE LAS ROZAS,"2,5"
+MERCEDES-BENZ Clase GLA 220d 7G-DCT 177,Pontevedra,2018, Diésel,59.968,Automático,177,29.490,Con financiación,TALLERES HERMINDO,"3,5"
+CITROEN C4 GRAND PICASSO 1.2 PURETECH 96KW S&S RIP CURL 130 5P,Cantabria,2018, Gasolina,66.000,Manual,130,15.990,Con financiación,"AUTO NORTE, concesionario y servicio oficial","4,5"
+BMW Serie 3 335dA Coupé,Vizcaya,2007, Diésel,194.000,Automático,286,15.500,Sin financiación,MERKEAUTO,"3,5"
+BMW Serie 4 435dA xDrive Cabrio Sport,Madrid,2014, Diésel,100.000,Automático,313,30.000,Con financiación,n/a,n/a
+JAGUAR E-Pace 2.0 P 147KW R-DYNAMIC S AUTO 4WD 200 5P,Islas Baleares,2019, Gasolina,26.368,Automático,200,33.900,Sin financiación,n/a,n/a
+RENAULT Mégane 1.3 TCe GPF Intens 103kW,Madrid,2021, Gasolina,10,Manual,140,17.990,Sin financiación,n/a,n/a
+KIA XCeed DRIVE,Pontevedra,2020, Diésel,52.890,Manual,115,18.900,Con financiación,TALLERES HERMINDO,"3,5"
+AUDI A3 1.6 30 TDI S LINE SPORTBACK 116 5P,Murcia,2020, Diésel,13.528,Manual,116,25.300,Con financiación,n/a,n/a
+VOLKSWAGEN Arteon 2.0TDI R-Line DSG7 110kW,Madrid,2018, Diésel,55.300,Automático,150,31.100,Con financiación,ALDAUTO MOTOR VW,"3,0"
+PEUGEOT 5008 SUV 1.5BlueHDi S&S Allure 130,Barcelona,2021, Diésel,10,Manual,130,30.760,Con financiación,AUTOVIVO,"5,0"
+HYUNDAI i10 1.2 Link,Madrid,2018, Gasolina,86.975,Manual,87,8.500,Con financiación,Esmicoche.com,"5,0"
+PEUGEOT 5008 SUV 1.5BlueHDi S&S Allure 130,Barcelona,2021, Diésel,10,Manual,130,30.760,Con financiación,AUTOVIVO,"5,0"
+HYUNDAI i10 1.2 Link,Madrid,2018, Gasolina,86.975,Manual,87,8.500,Con financiación,Esmicoche.com,"5,0"
+AUDI A4 2.0TDI CD 150 S line edition,Madrid,2015, Diésel,82.647,Manual,150,19.500,Con financiación,Esmicoche.com,"5,0"
+TOYOTA C-HR 125H Dynamic Plus,Ceuta,2017, Híbrido,79.200,Automático,122,18.995,Con financiación,n/a,n/a
+JAGUAR I-Pace SE,Madrid,2019, Eléctrico,20.000,Automático,400,53.900,Con financiación,BRUSELAS MOTOR S.L,"2,5"
+VOLKSWAGEN Golf Sportsvan 1.2 TSI BMT Edition,Barcelona,2014, Gasolina,149.000,Manual,110,9.990,Con financiación,n/a,n/a
+LEXUS RX 450h L Executive Tecno,Madrid,2018, Híbrido,51.164,Automático,313,40.990,Con financiación,"MOTOR ARJONA, concesionario oficial Toyota","4,0"
+BMW X6 xDrive 30dA,Alicante,2013, Diésel,98.000,Automático,245,27.900,Con financiación,QUALITY CARS DENIA,"4,0"
+PORSCHE Cayman PDK,Barcelona,2015, Gasolina,39.000,Automático,275,46.950,Con financiación,n/a,n/a
+PEUGEOT 2008 1.6 BlueHDI S&S Allure EAT6 120,Zaragoza,2018, Diésel,36.211,Automático,120,16.300,Con financiación,n/a,n/a
+KIA XCeed DRIVE,Pontevedra,2020, Diésel,52.890,Manual,115,18.900,Con financiación,TALLERES HERMINDO,"3,5"
+SEAT León ST 1.6TDI CR S&S Style 105,Alicante,2014, Diésel,197.400,Manual,105,7.990,Sin financiación,AUTOMÓVILES CARRUS,"4,0"
+VOLVO XC40 D4 Momentum AWD Aut.,Barcelona,2018, Diésel,49.046,Automático,190,32.300,Sin financiación,CarNext.com Barcelona,"3,0"
+MERCEDES-BENZ Clase GLA 220d 7G-DCT 177,Pontevedra,2018, Diésel,59.968,Automático,177,29.490,Con financiación,TALLERES HERMINDO,"3,5"
+CITROEN C4 GRAND PICASSO 1.2 PURETECH 96KW S&S RIP CURL 130 5P,Cantabria,2018, Gasolina,66.000,Manual,130,15.990,Con financiación,"AUTO NORTE, concesionario y servicio oficial","4,5"
+BMW Serie 3 335dA Coupé,Vizcaya,2007, Diésel,194.000,Automático,286,15.500,Sin financiación,MERKEAUTO,"3,5"
+PEUGEOT 208 1.6BlueHDi Access 75,Ciudad Real,2016, Diésel,140.000,Manual,75,7.950,Con financiación,JEREZAUTO,"5,0"
+PORSCHE Panamera S e-Hybrid Tiptronic,Girona,2014, Híbrido Enchufable,100.000,Automático,416,58.000,Sin financiación,n/a,n/a
+NISSAN Qashqai 2.0 Acenta 4x4,Madrid,2010, Gasolina,156.000,Manual,140,10.900,Sin financiación,n/a,n/a
+SEAT León ST 1.5 TSI S&S Xcellence 150,Barcelona,2021, Gasolina,6,Manual,150,24.800,Con financiación,n/a,n/a
+BMW Serie 5 520dA,Madrid,2019, Diésel,77.096,Automático,190,36.500,Con financiación,n/a,n/a
+VOLKSWAGEN Golf BERLINA 2.0 TDI DSG ADVANCE BLUEMOTION TECH 150 3P,Madrid,2016, Diésel,79.595,Automático,150,16.000,Con financiación,Esmicoche.com,"5,0"
+HYUNDAI Kona 150KW EV STYLE 484KM 204 5P,Albacete,2020, Eléctrico,5.468,Automático,204,40.000,Sin financiación,n/a,n/a
+MERCEDES-BENZ Clase GL GLC-CLASS 2.1 GLC 220 D AUTO 4MATIC 170 5P,Tarragona,2017, Diésel,65.000,Automático,170,33.975,Con financiación,GO MOTOR.,"4,5"
+BMW X5 xDrive 35iA,Barcelona,2011, Gasolina,143.000,Automático,306,22.900,Sin financiación,PARC PAT,"4,0"
+SEAT León 1.5 EcoTSI S&S DSG7 FR Fast Edition Plus 150,Barcelona,2020, Gasolina,25.700,Automático,150,21.290,Con financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+SEAT Tarraco 2.0TDI S&S Xcellence DSG 4Drive 190,Barcelona,2019, Diésel,18.700,Automático,190,30.990,Con financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+SEAT Arona 1.0 TSI Ecomotive S&S Style 115,Barcelona,2020, Gasolina,10.400,Manual,115,17.790,Con financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+CUPRA León Sportstourer 1.4 TSI e-Hybrid DSG 245,Barcelona,2020, Híbrido Enchufable,6.100,Automático,245,35.900,Sin financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+SEAT Ateca 1.5 EcoTSI S&S X-Perience DSG,Barcelona,2021, Gasolina,650,Automático,150,29.900,Con financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+BMW Serie 3 335i Aut.,Almería,2006, Gasolina,194.000,Automático,306,15.900,Sin financiación,n/a,n/a
+OPEL Mokka Mokka-e GS Ultimate-e,Alicante,2021, Eléctrico,5,Automático,136,30.400,Con financiación,n/a,n/a
+LEXUS RX 450h Executive,Cáceres,2021, Híbrido,1.925,Automático,313,70.900,Con financiación,n/a,n/a
+MERCEDES-BENZ Clase C C-CLASS 200 D AVANTGARDE,Murcia,2020, Diésel,12.300,Automático,160,35.500,Con financiación,n/a,n/a
+AUDI Q2 1.6 30 TDI SPORT 116 5P,Murcia,2020, Diésel,19.551,Manual,116,28.300,Con financiación,n/a,n/a
+HYUNDAI Kona EV Tecno 484 150kW,Madrid,2020, Eléctrico,10.000,Automático,204,4,Con financiación,GAMBOA OCASION,"4,0"
+AUDI Q2 35 TFSI Sport 110kW,Murcia,2019, Gasolina,25.646,Manual,150,28.300,Con financiación,n/a,n/a
+MERCEDES-BENZ EQC 400 4MATIC,Murcia,2020, Eléctrico,5.500,Automático,408,76.000,Con financiación,n/a,n/a
+TOYOTA C-HR 1.8I 122CV HYBRID ADVANCE,Girona,2019, Híbrido,87.473,Automático,122,18.990,Sin financiación,n/a,n/a
+FORD C-Max 1.0 Ecoboost Auto-S&S Trend+ 125,Alicante,2018, Gasolina,40.205,Manual,125,17.800,Sin financiación,n/a,n/a
+PEUGEOT 5008 2.0HDI FAP Allure,Vizcaya,2012, Diésel,120.900,Manual,150,10.990,Sin financiación,n/a,n/a
+NISSAN X-Trail 7P DIG-T 120 kW (160 CV) TEKNA,Madrid,2019, Gasolina,20.068,Manual,160,23.400,Con financiación,n/a,n/a
+MITSUBISHI ASX 160DI-D Motion,Madrid,2017, Diésel,92.000,Manual,114,14.999,Con financiación,n/a,n/a
+VOLKSWAGEN Tiguan 2.0TDI Sport 4Motion DSG 176kW (9.75),Valencia,2017, Diésel,48.950,Automático,240,38.500,Sin financiación,n/a,n/a
+SEAT León 1.2 TSI S&S Style 110,Málaga,2017, Gasolina,58.000,Manual,110,14.500,Sin financiación,MARTINSA MOTOR,"4,5"
+SEAT Alhambra 2.0TDI CR Eco. S&S Reference 150,Málaga,2018, Diésel,67.000,Manual,150,23.700,Sin financiación,MARTINSA MOTOR,"4,5"
+MERCEDES-BENZ Clase C C-CLASS 220 D AMG LINE CP,Murcia,2018, Diésel,109.712,Automático,170,34.500,Con financiación,n/a,n/a
+VOLVO V90 CC D4 AWD PRO AUT,Barcelona,2018, Diésel,84.361,Automático,190,32.685,Con financiación,DISELAUTO VOLVO,"4,5"
+FORD Kuga 1.5 ECOBOOST 150 A-S-S 4X2 TITANIUM,Guipúzcoa,2015, Gasolina,89.000,Manual,150,14.900,Sin financiación,COCAR EXPOCASION Servicio Oficial,"3,0"
+FORD Ka 1.20 Titanium,Alicante,2009, Gasolina,145.300,Manual,69,4.900,Sin financiación,AUTOMÓVILES CARRUS,"4,0"
+BMW Serie 1 118d,Barcelona,2015, Diésel,75.000,Manual,150,17.000,Con financiación,ÉLITE MATARÓ,"0,0"
+OPEL Meriva 1.6CDTi S&S Ecoflex Selective,Valencia,2017, Diésel,40.134,Manual,110,11.490,Con financiación,SYA MOTOR,"3,5"
+AUDI A3 Sportback 40 TFSIe Advanced S tronic,La Coruña,2021, Híbrido Enchufable,4.000,Automático,150,35.600,Con financiación,n/a,n/a
+SEAT León 1.0 EcoTSI S&S Reference 115,Barcelona,2018, Gasolina,35.000,Manual,115,12.950,Con financiación,GESTIONCAR Girona,"2,5"
+VOLKSWAGEN Golf 2.0 TSI GTI Performance DSG 230,Barcelona,2013, Gasolina,97.500,Automático,230,20.990,Con financiación,GESTIONCAR Martorell,"2,5"
+AUDI A1 Sportback 1.0 TFSI Adrenalin,Toledo,2017, Gasolina,56.800,Manual,95,13.900,Sin financiación,n/a,n/a
+RENAULT Scénic 1.5dCi Energy Dynamique 110,Cantabria,2013, Diésel,128.991,Manual,110,8.490,Con financiación,"AUTO NORTE, concesionario y servicio oficial","4,5"
+OPEL Zafira 1.6CDTI S/S Expression 120,Madrid,2018, Diésel,119.985,Manual,120,13.900,Sin financiación,CarNext.com Madrid,"3,5"
+JAGUAR F-Pace 2.0i4D Prestige Aut. AWD 240,Barcelona,2017, Diésel,65.721,Automático,240,39.200,Sin financiación,CarNext.com Barcelona,"3,0"
+BMW X5 xDrive 30dA,Barcelona,2021, Diésel,4.100,Automático,286,70.900,Con financiación,DRIVER CARS BCN,"5,0"
+PORSCHE Macan Turbo Aut.,Barcelona,2019, Gasolina,13.900,Automático,440,96.900,Con financiación,DRIVER CARS BCN,"5,0"
+PORSCHE 911 Carrera 4S Cabriolet PDK,Barcelona,2021, Gasolina,4.800,Automático,450,177.900,Con financiación,DRIVER CARS BCN,"5,0"
+MERCEDES-BENZ Clase A 45 S AMG 4Matic+ 8G-DCT,Barcelona,2020, Gasolina,19.900,Automático,422,67.900,Con financiación,DRIVER CARS BCN,"5,0"
+MAHINDRA XUV500 2.2D W8 FWD,Salamanca,2016, Diésel,66.000,Manual,140,12.490,Con financiación,DIRDAM CAR,"4,0"
+OPEL Mokka 1.6CDTi S&S Excellence 4x2,Cantabria,2015, Diésel,81.000,Manual,136,12.900,Sin financiación,AUTOMOVILES EL CAMPON,"4,0"
+AUDI A3 Sportback 40 TFSIe Advanced S tronic,La Coruña,2021, Híbrido Enchufable,4.000,Automático,150,35.600,Con financiación,n/a,n/a
+RENAULT Mégane 1.3 TCe GPF Limited 103kW,Vizcaya,2019, Gasolina,7.857,Manual,140,16.600,Con financiación,RENAULT TALLERES GARBI,"4,0"
+PORSCHE Cayenne E-Hybrid Aut.,Barcelona,2018, Híbrido Enchufable,63.000,Automático,462,82.900,Sin financiación,CENTRO PORSCHE BARCELONA,"3,5"
+MERCEDES-BENZ Clase GLC Coupé 220d 4Matic 9G-Tronic,Pontevedra,2020, Diésel,38.000,Automático,194,56.900,Con financiación,AUTOS ROSAS,"5,0"
+BMW X6 xDrive 40dA,Barcelona,2018, Diésel,80.000,Automático,313,46.950,Con financiación,n/a,n/a
+BMW Serie 1 118dA,Madrid,2021, Diésel,5.986,Automático,150,32.900,Con financiación,n/a,n/a
+FORD EcoSport 1.0 EcoBoost Trend 140,Vizcaya,2017, Gasolina,78.000,Manual,140,10.890,Con financiación,DURANGAUTO,"3,5"
+LAND-ROVER Defender 90 2.5Td5 SW S,Barcelona,2006, Diésel,108.000,Manual,122,26.500,Sin financiación,APOU,"3,5"
+NISSAN Qashqai 1.5dCi N-Connecta DCT 4x2 85kW,Albacete,2020, Diésel,3.856,Automático,115,25.350,Con financiación,NISSAN ROMOVIL,"4,5"
+MITSUBISHI ASX 180DI-D Motion,Ciudad Real,2012, Diésel,108.185,Manual,116,10.990,Sin financiación,n/a,n/a
+RENAULT Captur TCe Energy Zen 66kW,Barcelona,2018, Gasolina,60.500,Manual,90,12.700,Con financiación,n/a,n/a
+AUDI A4 2.0 35 TDI S TRONIC S LINE 150 4P,Murcia,2019, Diésel,20.053,Automático,150,33.500,Sin financiación,n/a,n/a
+FORD Kuga 1.5 EcoB. Auto S&S Business 4x2 150,Barcelona,2017, Gasolina,65.460,Manual,150,17.600,Sin financiación,n/a,n/a
+DAEWOO Lanos 1.6 16v. SX,Valencia,2000, Gasolina,185.000,Manual,106,1.500,Sin financiación,MA AUTOMOCION,"4,5"
+AUDI A1 1.0 TFSI Adrenalin,Valencia,2016, Gasolina,83.923,Manual,95,12.900,Con financiación,TRAVERAUTO,"4,5"
+NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,Madrid,2019, Gasolina,88.291,Manual,140,16.460,Con financiación,GAMBOA OCASION,"4,0"
+FORD Kuga 2.0TDCi Titanium 4x4 Powershift 180,Tarragona,2017, Diésel,38.000,Automático,180,22.975,Con financiación,GO MOTOR.,"4,5"
+TOYOTA Prius Plug-In 125PH Solar,Murcia,2020, Híbrido,8.659,Automático,122,31.800,Con financiación,n/a,n/a
+AUDI A4 2.0 35 TDI S TRONIC S LINE 150 4P,Murcia,2019, Diésel,20.053,Automático,150,33.500,Sin financiación,n/a,n/a
+FORD Kuga 1.5 EcoB. Auto S&S Business 4x2 150,Barcelona,2017, Gasolina,65.460,Manual,150,17.600,Sin financiación,n/a,n/a
+CITROEN C-Elysée PURETECH 82,Cantabria,2017, Gasolina,42.750,Manual,82,8.990,Con financiación,"AUTO NORTE, concesionario y servicio oficial","4,5"
+FORD C-Max 1.5TDCi Trend+ 120,Pontevedra,2018, Diésel,78.700,Manual,120,13.990,Con financiación,n/a,n/a
+BMW Serie 4 M4 Coupé Competition,Barcelona,2021, Gasolina,4.200,Automático,510,107.900,Con financiación,DRIVER CARS BCN,"5,0"
+BMW X6 xDrive 30dA,Barcelona,2021, Diésel,4.500,Automático,286,84.900,Con financiación,DRIVER CARS BCN,"5,0"
+AUDI Q8 RS TFSI quattro tiptronic ABT Power S,Barcelona,2021, Gasolina,10,Automático,740,285.900,Con financiación,DRIVER CARS BCN,"5,0"
+AUDI A3 Sportback 2.0TDI S Line Edition 110kW,Barcelona,2016, Diésel,86.000,Manual,150,18.000,Con financiación,ÉLITE MATARÓ,"0,0"
+PORSCHE Cayenne E-Hybrid Aut.,Vizcaya,2018, Híbrido Enchufable,93.000,Automático,462,79.990,Sin financiación,n/a,n/a
+BMW Serie 1 118d Sport,Murcia,2013, Diésel,100.000,Manual,143,12.000,Sin financiación,NEVAUTO,"4,0"
+DACIA Duster 1.5dCi Ambiance 4x2 90,Madrid,2014, Diésel,110.700,Manual,90,8.900,Sin financiación,n/a,n/a
+VOLKSWAGEN Golf 1.4 TSI Advance DSG7 92kW,Huesca,2017, Gasolina,36.500,Automático,125,16.990,Con financiación,Automóviles Cabrero Monzón,"5,0"
+VOLKSWAGEN Golf 1.5 ETSI 110KW DSG STYLE 5P,Barcelona,2020, Gasolina,10.215,Automático,150,27.000,Con financiación,n/a,n/a
+AUDI Q3 SPORTBACK 2.0 35 TDI 110KW S TRONIC S LINE 150 5P,Murcia,2020, Diésel,35.246,Automático,150,42.200,Con financiación,AUDI HUERTAS MOTOR CARTAGENA,"5,0"
+AUDI A3 2.0 35 TDI S LINE SPORTBACK 150 5P,Murcia,2020, Diésel,13.886,Manual,150,27.200,Con financiación,AUDI HUERTAS MOTOR CARTAGENA,"5,0"
+AUDI A3 1.6 30 TDI ALL-IN SPORTBACK 116 5P,Murcia,2020, Diésel,10,Manual,116,27.000,Sin financiación,n/a,n/a
+AUDI A3 1.6 30 TDI ALL-IN SPORTBACK 116 5P,Murcia,2020, Diésel,10,Manual,116,27.000,Sin financiación,n/a,n/a
+VOLKSWAGEN Golf 2.0TDI GTD DSG7 135kW(4.75),Málaga,2017, Diésel,96.700,Automático,184,24.990,Sin financiación,DCARS SPAIN,"4,0"
+AUDI A4 Avant 2.0TDI Multitronic DPF 143,Valladolid,2011, Diésel,149.000,Automático,143,11.490,Sin financiación,n/a,n/a
+AUDI Q5 2.0TDI Design quattro-ultra S tronic 140kW,Madrid,2017, Diésel,77.160,Automático,190,31.400,Con financiación,PSA RETAIL MADRID VILLAVERDE,"4,0"
+BMW Serie 1 116d,Tarragona,2009, Diésel,134.000,Manual,115,9.995,Sin financiación,AUTOMEDES INDUSTRIAL,"0,0"
+DAEWOO Lanos 1.6 16v. SX,Valencia,2000, Gasolina,185.000,Manual,106,1.500,Sin financiación,MA AUTOMOCION,"4,5"
+AUDI A1 1.0 TFSI Adrenalin,Valencia,2016, Gasolina,83.923,Manual,95,12.900,Con financiación,TRAVERAUTO,"4,5"
+MERCEDES-BENZ Clase C C-CLASS 220 D BLUETEC AMG LINE,Murcia,2017, Diésel,66.355,Automático,170,28.200,Con financiación,n/a,n/a
+MERCEDES-BENZ Clase A 180CDI,Alicante,2012, Diésel,119.850,Manual,109,7.700,Sin financiación,n/a,n/a
+HYUNDAI ix20 1.4 MPI BD Tecno 90,Barcelona,2016, Gasolina,64.000,Manual,90,10.890,Con financiación,n/a,n/a
+RENAULT Captur TCe Energy Zen 66kW,Barcelona,2018, Gasolina,60.500,Manual,90,12.700,Con financiación,n/a,n/a
+CHRYSLER Voyager GRAND 2.8 CRD LIMITED,Guipúzcoa,2010, Diésel,167.546,Automático,163,13.900,Sin financiación,COCAR EXPOCASION Servicio Oficial,"3,0"
+MERCEDES-BENZ Clase CLA 220d 7G-DCT 177,Barcelona,2015, Diésel,70.000,Automático,177,24.990,Con financiación,GESTIONCAR Girona,"2,5"
+AUDI Q8 RS TFSI quattro tiptronic ABT Power S,Barcelona,2021, Gasolina,10,Automático,740,285.900,Con financiación,DRIVER CARS BCN,"5,0"
+AUDI A3 Sportback 2.0TDI S Line Edition 110kW,Barcelona,2016, Diésel,86.000,Manual,150,18.000,Con financiación,ÉLITE MATARÓ,"0,0"
+MERCEDES-BENZ Clase E Cabrio 400 4Matic 9G-Tronic,Ciudad Real,2018, Gasolina,42.000,Automático,333,55.900,Sin financiación,AUTOSOL AUTOMOCIÓN,"4,5"
+FORD Focus FAMILIAR 1.0 ECOBOOST 125CV TREND+,Madrid,2017, Gasolina,78.702,Manual,125,9.900,Con financiación,PEUGEOT MABUSA,"4,0"
+OPEL Insignia ST 1.6 CDTi 100kW Turbo D Innovation,Zaragoza,2020, Diésel,4.650,Manual,136,22.340,Con financiación,n/a,n/a
+TOYOTA C-HR 125H Advance,Granada,2018, Híbrido,84.884,Automático,122,18.495,Con financiación,n/a,n/a
+SEAT Ateca 1.6TDI CR S&S Ecomotive Style,Castellón,2019, Diésel,98.000,Manual,115,19.000,Con financiación,n/a,n/a
+AUDI A5 Sportback 2.0TDI Sport S tronic 140kW,Barcelona,2019, Diésel,30.730,Automático,190,40.500,Con financiación,METAUTO MOTOR,"4,0"
+LEXUS RX 450h Executive,Murcia,2021, Híbrido,1.925,Automático,313,70.900,Con financiación,n/a,n/a
+HYUNDAI i20 1.0 TGDI 74KW TECNO LE 100 5P,Asturias,2018, Gasolina,31.522,Manual,100,11.990,Con financiación,HYUNDAI ASTURDAI,"3,0"
+AUDI A5 2.0 35 TDI S TRON B.LINE SPORTBACK 163 5P,Murcia,2020, Diésel,7.493,Automático,163,43.200,Con financiación,AUDI HUERTAS MOTOR CARTAGENA,"5,0"
+BMW Serie 1 118d Sport,Barcelona,2013, Diésel,68.000,Manual,143,15.500,Sin financiación,PARC PAT,"4,0"
+VOLVO XC90 3.2 Summum Geartronic,Barcelona,2007, Gasolina,143.000,Automático,238,15.800,Sin financiación,PARC PAT,"4,0"
+SEAT Ateca 1.4 EcoTSI S&S Style,Barcelona,2017, Gasolina,46.900,Manual,150,20.090,Con financiación,"TAES MOTOR, S.A., concesionario oficial Seat","2,5"
+AUDI A3 1.6 30 TDI ALL-IN SPORTBACK 116 5P,Murcia,2020, Diésel,10,Manual,116,27.000,Sin financiación,n/a,n/a
+AUDI A1 1.0 TFSI ADRENALIN SPORTBACK 95 5P,Murcia,2018, Gasolina,38.315,Manual,95,16.300,Con financiación,n/a,n/a
+LAND-ROVER Range Rover Evoque 2.0 P200 R-DYNAMIC SE AUTO 4WD 200 5P,Islas Baleares,2019, Gasolina,27.530,Automático,200,42.950,Sin financiación,n/a,n/a
+BMW Serie 1 118D 150 STEPTRONIC m sport,Málaga,2020, Diésel,12.194,Automático,140,29.937,Con financiación,n/a,n/a
+SKODA Scala 1.0 TSI 85KW STYLE 5P,Barcelona,2019, Gasolina,27.500,Manual,115,16.400,Con financiación,n/a,n/a
+VOLVO XC60 2.0 T6 RECHARGE INSCRIPTION EXP AUTO 340 5P,Palencia,2021, Híbrido,5,Automático,340,44.700,Con financiación,PALAUSA Palencia,"0,0"
+VOLVO XC60 D3 Kinetic 150,Valencia,2016, Diésel,91.000,Manual,150,19.400,Con financiación,ORLANDO CARS,"4,5"
+AUDI Q8 50 TDI quattro tiptronic,Murcia,2019, Diésel,95.000,Automático,286,61.900,Con financiación,n/a,n/a
+RENAULT Captur TCe GPF Zen 96kW,Madrid,2019, Gasolina,96.000,Manual,130,11.561,Con financiación,ALFONSO COPE,"0,0"
+SEAT Ateca 1.0 TSI S&S Ecomotive Reference,Madrid,2020, Gasolina,66.000,Manual,115,16.520,Con financiación,ALFONSO COPE,"0,0"
+FORD Focus 1.5TDCi Titanium PS 120,Valencia,2017, Diésel,116.172,Automático,120,9.700,Con financiación,n/a,n/a
+HYUNDAI i30 1.6CRDi Tecno 116,Barcelona,2019, Diésel,68.886,Manual,116,17.300,Sin financiación,CarNext.com Barcelona,"3,0"
+AUDI A4 2.0TDI S line edition 110kW,Pontevedra,2017, Diésel,66.607,Manual,150,21.500,Con financiación,TALLERES HERMINDO,"3,5"
+SEAT León 1.6TDI CR S&S Reference Plus 115,Pontevedra,2017, Diésel,121.000,Manual,115,12.990,Con financiación,n/a,n/a
+FORD Kuga 2.0TDCI Trend 4WD,Alicante,2011, Diésel,160.589,Manual,140,9.850,Sin financiación,Automoviles Guardamar vehículos Multimarca,"5,0"
+VOLKSWAGEN Golf 2.0 TSI GTI DSG,Vizcaya,2011, Gasolina,181.000,Automático,210,3,Sin financiación,n/a,n/a
+LEXUS RX 450h Executive,Murcia,2021, Híbrido,1.925,Automático,313,70.900,Con financiación,n/a,n/a
+VOLKSWAGEN Polo 1.0 Edition 59kW,Málaga,2019, Gasolina,57.000,Manual,80,12.500,Sin financiación,MARTINSA MOTOR,"4,5"
+HYUNDAI i30 1.6CRDi Tecno 116,Barcelona,2019, Diésel,68.886,Manual,116,17.300,Sin financiación,CarNext.com Barcelona,"3,0"
+AUDI A4 2.0TDI S line edition 110kW,Pontevedra,2017, Diésel,66.607,Manual,150,21.500,Con financiación,TALLERES HERMINDO,"3,5"
+SEAT León 1.6TDI CR S&S Reference Plus 115,Pontevedra,2017, Diésel,121.000,Manual,115,12.990,Con financiación,n/a,n/a
+VOLKSWAGEN Golf 2.0 TSI GTI DSG,Vizcaya,2011, Gasolina,181.000,Automático,210,3,Sin financiación,n/a,n/a
+FORD Focus 1.5TDCi Titanium PS 120,Valencia,2017, Diésel,116.172,Automático,120,9.700,Con financiación,n/a,n/a
+FORD Kuga 2.0TDCI Trend 4WD,Alicante,2011, Diésel,160.589,Manual,140,9.850,Sin financiación,Automoviles Guardamar vehículos Multimarca,"5,0"
+LAND-ROVER Range Rover Evoque 2.0 P200 R-DYNAMIC SE AUTO 4WD 200 5P,Islas Baleares,2019, Gasolina,27.530,Automático,200,42.950,Sin financiación,n/a,n/a
+BMW Serie 1 118D 150 STEPTRONIC m sport,Málaga,2020, Diésel,12.194,Automático,140,29.937,Con financiación,n/a,n/a
+SKODA Scala 1.0 TSI 85KW STYLE 5P,Barcelona,2019, Gasolina,27.500,Manual,115,16.400,Con financiación,n/a,n/a
+VOLVO XC60 2.0 T6 RECHARGE INSCRIPTION EXP AUTO 340 5P,Palencia,2021, Híbrido,5,Automático,340,44.700,Con financiación,PALAUSA Palencia,"0,0"
+CITROEN C3 1.6BlueHDi S&S Shine 100,Valencia,2018, Diésel,105.539,Manual,99,12.500,Con financiación,n/a,n/a
+SAAB 9-5 Aero 2.0T,Valencia,2011, Gasolina,58.000,Manual,220,28.900,Sin financiación,n/a,n/a
+BMW Serie 3 320iA,Valencia,2020, Gasolina,12.882,Automático,184,2,Con financiación,n/a,n/a
+VOLKSWAGEN Tiguan 2.0TDI Sport DSG 110kW,Barcelona,2018, Diésel,43.500,Automático,150,32.900,Sin financiación,n/a,n/a
+PEUGEOT 208 1.2 VTi Active,Barcelona,2014, Gasolina,107.310,Manual,82,8.000,Con financiación,n/a,n/a
+VOLKSWAGEN Golf 2.0 TSI GTI Performance DSG7 180kW,Barcelona,2018, Gasolina,71.000,Automático,245,27.500,Con financiación,n/a,n/a
+PORSCHE Panamera 4S Diesel Aut.,Málaga,2017, Diésel,37.000,Automático,422,94.900,Sin financiación,n/a,n/a
+AUDI A1 Sportback 30 TFSI S line,Valencia,2019, Gasolina,58.818,Manual,116,19.970,Con financiación,n/a,n/a
+JEEP Compass 80TH 1.3 GSE 150CV DCT 4X2 5P MY21,Barcelona,2021, Gasolina,40,Automático,150,30.750,Con financiación,VALLESCAR,"4,5"
+AUDI A1 ATTRACTION 1.6 TDI 116 CV 3P,Barcelona,2016, Diésel,41.900,Manual,116,12.800,Con financiación,VALLESCAR,"4,5"
+PORSCHE Macan Aut.,Madrid,2018, Gasolina,79.000,Automático,252,51.500,Sin financiación,n/a,n/a
+VOLVO XC40 T3 R-Design,Málaga,2018, Gasolina,50.964,Manual,156,28.450,Con financiación,n/a,n/a
+RENAULT Captur ZEN E-TECH HIBRIDO ENCHUFABLE,Córdoba,2021, Híbrido,0,Automático,160,27.400,Con financiación,AUTOSDECONFIANZA,"4,5"
+AUDI A6 Avant 2.0 TFSI S line edition Q. S-T,Barcelona,2017, Gasolina,27.474,Automático,252,36.490,Sin financiación,n/a,n/a
+FORD Focus 1.0 Ecoboost Trend+ 125,Madrid,2018, Gasolina,17.900,Manual,124,11.900,Con financiación,n/a,n/a
+BMW Serie 3 318 Ci Cabrio,Málaga,2004, Gasolina,241.000,Manual,143,6.000,Sin financiación,n/a,n/a
+BMW X5 sDrive 25dA,Madrid,2017, Diésel,128.000,Automático,231,32.900,Sin financiación,GVO MADRID,"3,5"
+PEUGEOT 508 2.0BlueHDi S&S GT Line EAT8 160,Madrid,2020, Diésel,20.000,Automático,163,30.990,Sin financiación,n/a,n/a
+LAND-ROVER Defender 90 2.5Td5 Pick Up E,Murcia,2006, Diésel,134.840,Manual,122,28.900,Sin financiación,PELLICER MOTOR,"4,0"
+MINI Mini Clubman John Cooper Works ALL4,Valencia,2018, Gasolina,59.000,Manual,231,27.900,Con financiación,ORLANDO CARS,"4,5"
+PORSCHE Taycan Turbo S,Alicante,2020, Eléctrico,9.900,Automático,761,172.500,Sin financiación,CENTRO PORSCHE ALICANTE,"4,0"
+VOLKSWAGEN Golf Variant 1.6TDI CR BMT Business&Navi 110,Cantabria,2016, Diésel,200.000,Manual,110,9.700,Sin financiación,RACER MOTOR.,"3,0"
+FIAT 500 1.0 GSE Lounge,Barcelona,2021, Gasolina,4.500,Manual,70,12.700,Con financiación,AUTO 88,"2,5"
+SEAT León ST 1.5 TSI S&S FR 150,Castellón,2021, Gasolina,50,Manual,150,24.300,Con financiación,n/a,n/a
+CITROEN C5 1.6HDI SX FAP,Lugo,2005, Diésel,330.000,Manual,110,2.300,Sin financiación,AUTODELFIN,"4,0"
+AUDI A1 Sportback 1.0 TFSI Adrenalin,Castellón,2018, Gasolina,27.654,Manual,95,16.600,Sin financiación,ESTELLER IMPORT,"4,5"
+FORD Kuga STLine X 2.5 Duratec PHEV 165kW Auto,Barcelona,2021, Híbrido,10,Automático,225,32.250,Con financiación,Donnay,"3,5"
+PEUGEOT 3008 1.6 BlueHDi Allure 120,Valencia,2015, Diésel,41.160,Manual,121,13.500,Con financiación,n/a,n/a
+MINI Countryman Cooper S Aut.,Barcelona,2017, Gasolina,55.900,Automático,192,25.900,Sin financiación,n/a,n/a
+FORD Kuga 1.5 EcoB. Auto S&S ST-Line 4x2 150,Barcelona,2018, Gasolina,21.000,Manual,150,20.900,Con financiación,n/a,n/a
+TOYOTA Auris hybrid 140H Feel! Edition,Barcelona,2019, Híbrido,25.000,Automático,136,17.500,Con financiación,n/a,n/a
+BMW X6 M Competition First Edition 625cv,Madrid,2020, Gasolina,3.000,Automático,625,149.900,Sin financiación,n/a,n/a
+PORSCHE Panamera GTS PDK,Madrid,2015, Gasolina,84.000,Automático,440,56.999,Sin financiación,n/a,n/a
+LAND-ROVER Range Rover Sport 3.0TDV6 HSE Dynamic Aut.,Madrid,2016, Diésel,160.000,Automático,258,33.999,Sin financiación,n/a,n/a
+VOLVO XC40 T3,Ciudad Real,2019, Gasolina,34.127,Manual,156,27.850,Con financiación,"VOLVO VYPSA, Volvo -  Ciudad Real","5,0"
+KIA Niro 1.6 HEV Drive,Tarragona,2019, Híbrido,29.000,Automático,141,18.950,Con financiación,EBRE MOBIL,"3,0"
+MERCEDES-BENZ Clase B 180 d,Málaga,2020, Diésel,20.000,Automático,116,30.950,Con financiación,n/a,n/a
+NISSAN Micra IG-T Acenta 92,Málaga,2021, Gasolina,15.000,Manual,92,14.800,Con financiación,n/a,n/a
+MINI Mini Cooper,Barcelona,2020, Gasolina,15.459,Manual,136,29.490,Con financiación,IBERICAR BARCELONA PREMIUM,"3,0"
+MINI Mini COOPER S 5 PUERTAS,Barcelona,2019, Gasolina,27.047,Manual,192,29.490,Con financiación,IBERICAR BARCELONA PREMIUM,"3,0"
+PORSCHE Macan S Diesel Aut.,Lleida,2014, Diésel,148.000,Automático,258,41.000,Sin financiación,SEGALÀS,"2,5"
+NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,Girona,2018, Gasolina,29.000,Automático,117,15.800,Sin financiación,VILAFANT MOTOR,"3,5"
+RENAULT Mégane E-TECH Zen 117kW,Ciudad Real,2020, Híbrido Enchufable,7,Automático,160,26.500,Con financiación,n/a,n/a
+RENAULT Talisman 1.5dCi Energy ECO2 Intens 81kW,Sevilla,2017, Diésel,169.852,Manual,110,10.500,Con financiación,DUCOCAR,"4,5"
+AUDI A3 Sportback 30 TFSI S Line 85kW,Valencia,2019, Gasolina,21.459,Manual,116,21.900,Con financiación,MOTORSELEC LEVANTE. ES,"4,0"
+CHEVROLET Captiva 2.0VCDi LS7,Madrid,2011, Diésel,145.000,Manual,127,10.900,Sin financiación,n/a,n/a
+AUDI A4 Avant 2.0TDI CD S line edition Q. 190,Madrid,2014, Diésel,178.000,Manual,190,13.900,Con financiación,AUTODRIVER,"4,5"
+FIAT Tipo Sedán 1.4 Lounge Plus,Málaga,2019, Gasolina,80.835,Manual,95,10.950,Con financiación,"ELITE MOTOR AXARQUIA, S.L.","3,5"
+SEAT Ateca 1.0 TSI S&S Ecomotive Style,Málaga,2019, Gasolina,66.350,Manual,115,19.500,Con financiación,"ELITE MOTOR AXARQUIA, S.L.","3,5"
+TOYOTA RAV-4 150D Executive AWD,Ciudad Real,2016, Diésel,89.000,Manual,150,21.500,Sin financiación,AUTOSOL AUTOMOCIÓN,"4,5"
+BMW X2 sDrive 20iA,Valencia,2018, Gasolina,23.062,Automático,192,3,Con financiación,n/a,n/a
+MINI One 3P,Murcia,2013, Gasolina,116.040,Manual,n/a,9.400,Sin financiación,PELLICER MOTOR,"4,0"
+PEUGEOT 308 1.5BlueHDi S&S Active 130,La Coruña,2021, Diésel,7.500,Manual,130,17.100,Con financiación,n/a,n/a
+MAZDA Mazda6 2.2DE Luxury Aut. 175,Barcelona,2013, Diésel,135.000,Automático,175,13.900,Sin financiación,n/a,n/a
+FIAT Tipo 1.3 Multijet II Mirror,Valencia,2020, Diésel,11.700,Manual,95,12.998,Con financiación,"MIL AUTOMOVILES , JEEP, FIAT y ALFA  ROMEO","5,0"
+SEAT León 1.6TDI CR Reference 90,Madrid,2018, Diésel,99.834,Manual,90,10.270,Con financiación,GAMBOA OCASION,"4,0"
+NISSAN Juke 1.0 DIG-T Acenta 4x2 DCT 7 114,Madrid,2021, Gasolina,10.000,Automático,114,21.500,Con financiación,AUTOSAE CENTER,"0,0"
+RENAULT Scénic Grand 1.3 TCe GPF Limited 103kW,Madrid,2018, Gasolina,42.500,Manual,140,5,Con financiación,AUTOSAE CENTER,"0,0"
+AUDI A1 SPORTBACK ATTRACTION 1.6 TDI 116 CV S LINE 5P,Barcelona,2017, Diésel,78.269,Manual,116,14.800,Con financiación,VALLESCAR,"4,5"
+ABARTH 500 595C 1.4 T-JET 145 CV 2P,Barcelona,2018, Gasolina,64.980,Manual,145,14.200,Con financiación,VALLESCAR,"4,5"
+PORSCHE Cayenne Diesel Platinum Edition Aut.,Madrid,2014, Diésel,90.000,Automático,245,36.500,Sin financiación,n/a,n/a
+VOLVO S90 T8 TWIN INSCRIPTION 4WD AUTO 407 4P,Córdoba,2018, Eléctrico,59.566,Automático,407,43.450,Con financiación,n/a,n/a
+LAND-ROVER Range Rover Sport 3.0SDV6 HSE Dynamic 306 Aut.,Vizcaya,2015, Diésel,107.900,Automático,306,38.500,Sin financiación,ALIANTXA KARS,"4,0"
+VOLKSWAGEN Golf 2.0TDI CR BMT GTD 184,Madrid,2016, Diésel,95.000,Manual,184,18.900,Sin financiación,GVO MADRID,"3,5"
+NISSAN Pulsar 1.2 DIG-T Acenta,Madrid,2016, Gasolina,1.722,Manual,115,12.990,Sin financiación,n/a,n/a
+AUDI A3 Sportback 2.0TDI S Line Edition 110kW,Barcelona,2018, Diésel,50.500,Manual,150,24.500,Sin financiación,n/a,n/a
+LAND-ROVER Discovery Sport 2.0D TD4 MHEV Standard AWD Auto 163,Madrid,2020, Diésel,14.900,Automático,163,37.900,Con financiación,COCHESQUEMOLAN,"4,0"
+MAZDA Mazda2 Es un Black Tech Edition 1.5 de 90 cv,Sta. C. de Tenerife,2019, Gasolina,57.571,Manual,75,11.990,Sin financiación,n/a,n/a
+OPEL Corsa 1.2 C Mon,Málaga,2012, Gasolina,126.000,Manual,85,5.600,Sin financiación,WAGEN MUÑOZ,"4,0"
+AUDI A6 RS 6 Avant 4.0 TFSI quattro Tiptronic,Madrid,2016, Gasolina,97.000,Automático,560,64.999,Sin financiación,n/a,n/a
+VOLKSWAGEN Passat 1.6TDI BMT Bluemotion 88kW,Madrid,2016, Diésel,180.000,Manual,120,15.990,Sin financiación,ROYAL QUALITY CARS,"3,0"
+DODGE Challenger R/T VENDIDO!!,Barcelona,2014, Gasolina,300,Automático,360,39.900,Sin financiación,n/a,n/a
+AUDI A1 SPORTBACK EPIC EDITION 30 1.0 TFSI 116 CV 5P,Barcelona,2019, Gasolina,69.928,Manual,116,18.100,Con financiación,VALLESCAR,"4,5"
+AUDI Q3 S LINE 1.5 35 TFSI 150 CV 5P,Barcelona,2019, Gasolina,72.168,Manual,150,28.900,Con financiación,VALLESCAR,"4,5"
+SEAT León 2.0TDI CR S&S FR 184,Madrid,2018, Diésel,63.000,Manual,184,17.900,Con financiación,SF MOTOR PREMIUM MADRID,"4,0"
+SEAT Altea 2.0TDI Reference DSG,Granada,2006, Diésel,250.000,Automático,140,4.900,Sin financiación,TASECAR,"0,0"
+AUDI A3 Sportback 2.0TDI S Line Edition 110kW,Barcelona,2018, Diésel,50.500,Manual,150,24.500,Sin financiación,n/a,n/a
+AUDI A6 RS 6 Avant 4.0 TFSI quattro Tiptronic,Madrid,2016, Gasolina,97.000,Automático,560,64.999,Sin financiación,n/a,n/a
+SKODA Fabia 1.4TDI Ambition 55kW,Madrid,2018, Diésel,123.000,Manual,75,10.500,Con financiación,n/a,n/a
+TOYOTA Yaris HSD 1.5 Active,Valencia,2016, Híbrido,92.112,Automático,100,10.500,Con financiación,n/a,n/a
+VOLKSWAGEN T-Cross 1.0 TSI Advance,León,2020, Gasolina,7.700,Manual,95,8,Con financiación,"TELENAUTO, Audi y Volkswagen","4,0"
+RENAULT Kadjar 1.5dCi Energy Life 81kW,Barcelona,2017, Diésel,86.000,Manual,110,10.082,Con financiación,AVCARS,"3,5"
+AUDI A6 Avant 2.0TDI S-Tronic 140kW(4.75),Salamanca,2018, Diésel,139.800,Automático,190,23.990,Sin financiación,n/a,n/a
+PEUGEOT 308 SW 2.0 BlueHDi Allure 150,Madrid,2016, Diésel,131.000,Manual,150,10.990,Con financiación,n/a,n/a
+RENAULT Zoe Intens 50 R135 100kW,Vizcaya,2021, Eléctrico,1,Automático,135,27.900,Con financiación,RENAULT TALLERES GARBI,"3,5"
+BMW Serie 3 318d,Cádiz,2016, Diésel,96.000,Manual,150,16.950,Sin financiación,n/a,n/a
+BMW Serie 3 330i,Madrid,2001, Gasolina,265.195,Manual,231,7.500,Sin financiación,AUTOS GAITAN,"4,0"
+SEAT León SC 1.4 TSI S&S Style 125,Madrid,2016, Gasolina,199.000,Manual,125,9.990,Sin financiación,n/a,n/a
+OPEL Astra 1.2T S/S GS Line 130,Burgos,2021, Gasolina,1,Manual,130,16.900,Sin financiación,"MOTOR ARANDA, concesionario oficial Opel","4,0"
+OPEL Crossland 1.2 81KW (110CV) GS LINE,Valencia,2021, Gasolina,4,Manual,110,16.580,Con financiación,AUTOMOVILES PALMA S.A.,"5,0"
+BMW Serie 4 M4 Coupé Competition,Barcelona,2021, Gasolina,4.150,Automático,510,112.900,Con financiación,DRIVER CARS BCN,"5,0"
+MERCEDES-BENZ Clase G 63 AMG 4Matic 9G-Tronic,Barcelona,2021, Gasolina,100,Automático,585,665.900,Sin financiación,DRIVER CARS BCN,"5,0"
+BMW X1 sDrive 18d,Valencia,2017, Diésel,60.889,Automático,150,24.890,Con financiación,BMW BERTOLIN,"5,0"
+BMW X6 xDrive 40iA,Barcelona,2021, Gasolina,4.150,Automático,333,87.900,Con financiación,DRIVER CARS BCN,"5,0"
+BMW X5 xDrive 40iA,Barcelona,2021, Gasolina,4.300,Automático,333,97.800,Con financiación,DRIVER CARS BCN,"5,0"
+BMW Serie 3 M3 Competition MxDrive,Barcelona,2021, Gasolina,4.100,Automático,510,108.900,Sin financiación,DRIVER CARS BCN,"5,0"
+RENAULT Kadjar 1.5dCi Energy Zen 81kW,La Coruña,2017, Diésel,48.362,Manual,110,16.900,Con financiación,n/a,n/a
+SKODA Octavia 1.5 TSI Ambition,Tarragona,2020, Gasolina,30.512,Manual,150,19.200,Sin financiación,n/a,n/a
+VOLVO XC90 D5 Momentum AWD 235 Aut. 7 pl. (9.75),Navarra,2020, Diésel,10.000,Automático,235,53.000,Con financiación,NAVARSUECIA AUTOMOVILES Conc. Oficial Volvo,"3,0"
+BMW Serie 3 318dA,Madrid,2017, Diésel,63.973,Automático,150,23.600,Sin financiación,CarNext.com Madrid,"3,5"
+BMW Serie 1 M135iA xDrive (9.75),Barcelona,2021, Gasolina,4.500,Automático,306,53.900,Con financiación,DRIVER CARS BCN,"5,0"
+OPEL Astra 1.4T S/S Selective 125,Madrid,2016, Gasolina,105.700,Manual,125,9.999,Con financiación,n/a,n/a
+SEAT León 1.6TDI CR S&S Style DSG7 110,Vizcaya,2016, Diésel,89.000,Automático,110,12.420,Con financiación,100% AUTO,"4,5"
+AUDI Q8 RS TFSI quattro tiptronic ABT Power S,Barcelona,2021, Gasolina,10,Automático,740,290.900,Con financiación,DRIVER CARS BCN,"5,0"
+OPEL Crossland 1.2 81KW (110CV) GS LINE,Valencia,2021, Gasolina,6,Manual,110,17.950,Con financiación,AUTOMOVILES PALMA S.A.,"5,0"
+SKODA Scala 1.6 TDI Ambition 85kW,Pontevedra,2019, Diésel,8.500,Manual,115,15.890,Con financiación,n/a,n/a
+NISSAN Juke 1.0 DIG-T Acenta 4x2 114,Guipúzcoa,2021, Gasolina,3.466,Manual,114,18.300,Con financiación,GAURSA,"4,0"
+OPEL Mokka 1.2 T 74KW (100 CV) BUSINESS ELEGANCE,Valencia,2021, Gasolina,12,Manual,100,20.350,Con financiación,AUTOMOVILES PALMA S.A.,"5,0"
+AUDI A7 Sportback 3.0TDI quattro S-Tronic 204,Madrid,2013, Diésel,119.000,Automático,204,28.000,Con financiación,GESTION DIRECTA DE VEHICULOS,"4,5"
+AUDI A4 30 TDI Advanced S tronic 100kW,La Coruña,2020, Diésel,14.780,Automático,136,30.400,Con financiación,n/a,n/a
+VOLKSWAGEN Scirocco 2.0TDI BMT R-Line 135kW,Barcelona,2016, Diésel,160.000,Manual,184,15.490,Con financiación,GESTIONCAR Reus,"3,0"
+PORSCHE Macan Aut.,Madrid,2019, Gasolina,32.000,Automático,245,59.990,Sin financiación,DIMASU MOTOR.,"3,0"
+JEEP Renegade 1.3 PHEV 140KW LIMITED AUTO 4WD 190 5P,Madrid,2021, Gasolina,1,Automático,190,30.000,Con financiación,n/a,n/a
+BMW Serie 4 420d Gran Coupé,Barcelona,2017, Diésel,55.781,Manual,190,29.000,Con financiación,n/a,n/a
+OPEL Insignia ST 1.5D DVH S&S Business Edition 122,Málaga,2021, Diésel,5,Manual,122,21.900,Con financiación,n/a,n/a
+TOYOTA Yaris 100H 1.5 Active,Madrid,2017, Híbrido,111.000,Automático,100,10.500,Con financiación,n/a,n/a
+BMW X6 xDrive M50dA,Alicante,2017, Diésel,39.000,Automático,381,56.000,Sin financiación,n/a,n/a
+AUDI A1 Sportback 1.0 TFSI Adrenalin,Córdoba,2018, Gasolina,27.255,Manual,95,17.200,Con financiación,n/a,n/a
+AUDI A6 Allroad Q. 3.0BiTDI Advanced ed. Tip. 235kW,Valladolid,2018, Diésel,70.598,Automático,320,34.590,Con financiación,n/a,n/a
+NISSAN Juke 1.0 DIG-T Acenta 4x2 114,Guipúzcoa,2021, Gasolina,3.466,Manual,114,18.300,Con financiación,GAURSA,"4,0"
+OPEL Mokka 1.2 T 74KW (100 CV) BUSINESS ELEGANCE,Valencia,2021, Gasolina,12,Manual,100,20.350,Con financiación,AUTOMOVILES PALMA S.A.,"5,0"
+AUDI A7 Sportback 3.0TDI quattro S-Tronic 204,Madrid,2013, Diésel,119.000,Automático,204,28.000,Con financiación,GESTION DIRECTA DE VEHICULOS,"4,5"
+PORSCHE Macan Aut.,Madrid,2019, Gasolina,32.000,Automático,245,59.990,Sin financiación,DIMASU MOTOR.,"3,0"
+JEEP Renegade 1.3 PHEV 140KW LIMITED AUTO 4WD 190 5P,Madrid,2021, Gasolina,1,Automático,190,30.000,Con financiación,n/a,n/a
+BMW Serie 4 420d Gran Coupé,Barcelona,2017, Diésel,55.781,Manual,190,29.000,Con financiación,n/a,n/a
+AUDI A4 30 TDI Advanced S tronic 100kW,La Coruña,2020, Diésel,14.780,Automático,136,30.400,Con financiación,n/a,n/a
+VOLKSWAGEN Scirocco 2.0TDI BMT R-Line 135kW,Barcelona,2016, Diésel,160.000,Manual,184,15.490,Con financiación,GESTIONCAR Reus,"3,0"
+OPEL Insignia ST 1.5D DVH S&S Business Edition 122,Málaga,2021, Diésel,5,Manual,122,21.900,Con financiación,n/a,n/a
+BMW X6 xDrive M50dA,Alicante,2017, Diésel,39.000,Automático,381,56.000,Sin financiación,n/a,n/a
+MERCEDES-BENZ Clase C 220CDI BE Avantgarde Aut.,Valencia,2017, Diésel,112.196,Automático,170,28.295,Sin financiación,n/a,n/a
+BMW Serie 2 220iA Cabrio,Málaga,2017, Gasolina,11.000,Automático,184,32.999,Sin financiación,n/a,n/a
+LAND-ROVER Range Rover Evoque 2.0 P200 R-DYNAMIC SE AUTO 4WD 200 5P,Málaga,2019, Gasolina,27.530,Automático,200,42.950,Sin financiación,n/a,n/a
+OPEL Insignia 2.8 V6 Turbo OPC,Asturias,2012, Gasolina,114.000,Manual,325,15.990,Sin financiación,n/a,n/a
+CITROEN C3 Aircross BlueHDi S&S Shine 100,Barcelona,2019, Diésel,15.000,Manual,100,15.950,Con financiación,n/a,n/a
